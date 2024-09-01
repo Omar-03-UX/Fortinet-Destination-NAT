@@ -2,8 +2,6 @@
 
 <h1> Destination NAT Lab </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 In this lab, we will create a simulated network environment to demonstrate the implementation of Destination Network Address Translation (DNAT) for external users to securely access web servers and services, such as HTTP and SSH, located in the DMZ (Demilitarized Zone). The DMZ acts as an intermediary network segment that separates the untrusted external network (typically the internet) from the trusted internal network, and it houses publicly accessible servers. The lab's primary objective is to showcase how DNAT can be used to forward external requests to the appropriate DMZ servers while maintaining the security of the internal network.
 <br />
